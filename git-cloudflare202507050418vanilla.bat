@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "cloudflare202507050418vanilla wrangler.toml"
+git commit -m "cloudflare202507050418vanilla wrangler.toml worker.js"
 
 git remote add origin https://github.com/abuhg17/cloudflare202507050418vanilla.git
 
