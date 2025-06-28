@@ -1,0 +1,8 @@
+name = "cloudflare202507050418vanilla"
+type = "javascript"
+account_id = "f866a4aeccaeefe2bba8057c8c8a2cda"
+compatibility_date = "2025-06-28"
+
+[site]
+bucket = "."
+entry-point = "workers-site"
